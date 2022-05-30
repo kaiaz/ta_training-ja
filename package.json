@@ -1,0 +1,20 @@
+{
+  "name": "lesson_1",
+  "version": "1.0.0",
+  "description": "text_project_qa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lesson",
+    "qa\u001b[D\u001b[D\u001b[D_1\u001b[3~\u001b[3~",
+    "qa",
+    "epam"
+  ],
+  "author": "Kai",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
